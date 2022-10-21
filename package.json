@@ -1,0 +1,20 @@
+{
+  "name": "stemcdevops",
+  "version": "1.0.0",
+  "description": "STEMCstudio DevOps Manual",
+  "main": "index.js",
+  "scripts": {
+    "build": "bundle exec rake book:build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geometryzen/stemcdevops.git"
+  },
+  "author": "David Geo Holmes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geometryzen/stemcdevops/issues"
+  },
+  "homepage": "https://github.com/geometryzen/stemcdevops#readme"
+}

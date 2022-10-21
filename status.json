@@ -1,0 +1,10 @@
+{
+  "code": "en",
+  "language": "English",
+  "maintainers": ["geometryzen"],
+  "files": {
+    "01-introduction": {
+      "1-introduction.asc": 0
+    }
+  }
+}
